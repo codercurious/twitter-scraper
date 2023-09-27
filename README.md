@@ -1,3 +1,5 @@
+# Twitter scraper
+Interested in using this scraper? Get it here: [Twitter scraper](https://apify.com/curious_coder/twitter-scraper)
 ## What can you scrape
 You can scrape twitter followers and following of any user with this scraper. 
 
