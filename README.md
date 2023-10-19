@@ -1,5 +1,5 @@
 # Twitter scraper
-Interested in using this scraper? Get it here: [Twitter scraper](https://apify.com/curious_coder/twitter-scraper)
+Interested in using this scraper? Get it here: [Twitter scraper](https://apify.com/curious_coder/twitter-scraper?fpr=ve081&fp_sid=github_twitter-scraper)
 ## What can you scrape
 You can scrape twitter followers and following of any user with this scraper. 
 
@@ -18,7 +18,12 @@ Click on the extension and export the twitter cookies
 
 Paste the cookies into this actor's `cookie` input field
 
-💡 **Related scrapers:** [Twitter comments scraper](https://apify.com/curious_coder/twitter-replies-scraper) | [Facebook group members scraper](https://apify.com/curious_coder/facebook-scraper) | [Twitter likes scraper](https://apify.com/curious_coder/twitter-likes-scraper) | [Other useful scrapers](https://apify.com/curious_coder)
+💡 **Related scrapers:** [Twitter comments scraper](https://apify.com/curious_coder/twitter-replies-scraper?fpr=ve081&fp_sid=github_twitter-scraper) | [Facebook group members scraper](https://apify.com/curious_coder/facebook-scraper?fpr=ve081&fp_sid=github_twitter-scraper) | [Twitter likes scraper](https://apify.com/curious_coder/twitter-likes-scraper?fpr=ve081&fp_sid=github_twitter-scraper) | [Other useful scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_twitter-scraper)
+
+
+## Integrations
+You can use [Make](https://www.make.com/en/register?pc=growthhack) to integrate twitter followers scraper to any other SaaS platform by designing your own automation flows.
+
 
 ## Sample output
 Here is the sample output of this actor:
